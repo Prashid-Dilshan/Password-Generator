@@ -22,3 +22,7 @@ This project is built with **HTML**, **CSS**, and **JavaScript** to ensure a lig
 
 Check out the code to learn more or try it out yourself to experience the magic of password generation! 🎉  
 
+---
+
+### Made by **Prashid Dilshan** ❤️
+This project was created by Prashid Dilshan as part of a front-end development exercise. 
